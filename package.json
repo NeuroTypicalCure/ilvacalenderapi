@@ -1,0 +1,11 @@
+{
+  "name": "ilvacalenderapi",
+  "version": "1.0.0",
+  "description": "https://afvalkalender.ilva.be/nl/",
+  "main": "Ilva.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tvds",
+  "license": "ISC"
+}
